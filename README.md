@@ -9,15 +9,15 @@
 <a id="about"></a>
 ### `> whoami`
 
-I'm **Carlos Benedito Maciel II**, also known as **SkylerZ** — a Software Engineering student at **iCEV**, from Teresina, Brazil.
+I'm **Carlos Maciel II**, also known as **SkylerZ** — a Software Engineering student at **iCEV**, from Brazil.
 
 I love building things. What really keeps me interested, though, is understanding **how** they work. I don't want to stop at "this works"; I want to know *why* it works, what breaks it, and how I could build it differently.
 
 I like hard problems, especially those that force me to question an old assumption. Most of my work lives somewhere between **backend development, algorithms, data structures, databases and game systems**.
 
-I also write stories and design tabletop RPG worlds. I believe systems and stories are closer than they look: both need rules, consequences and room for the unexpected.
+I also write stories and work on world building. I believe software and stories can create the most beautiful of arts when intertwined
 
-> *Criar uma história entre as linhas de código.*
+> *Aprender é Mudar.*
 
 <a id="projects"></a>
 ### `// selected_builds`
@@ -40,7 +40,6 @@ A few repositories you can actually open and inspect:
 Not everything I build is public yet.
 
 - **RPGine** · `Next.js / TypeScript / .NET / PostgreSQL` — An in-development platform for tabletop RPG characters and combat systems.
-- **StudyNet** · `C# / ASP.NET Core / EF Core / PostgreSQL` — A backend project exploring CRUD, REST endpoints and deployment with Linux/Nginx.
 - **Hex-grid tactical roguelike** · `Luau / Roblox Studio` — A prototype with modular grid movement, pathfinding and turn-based architecture.
 - **MOPE** · `Product / Leadership` — A gamified productivity concept I **initiated, led and managed**, from team planning through the academic pitch.
 
@@ -64,7 +63,7 @@ Tools matter. Knowing **when** and **why** to use them matters more.
 
 **Away from the keyboard:** writing fiction, worldbuilding, running RPG campaigns and playing games that give me more ideas than spare time.
 
-**Languages:** Portuguese (native), English (fluent), Japanese (learning).
+**Languages:** Portuguese (native), English (fluent).
 
 **Long-term quest:** create software people use, games people remember, and stories worth telling.
 

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">SkylerZ — Carlos Maciel</title>
+  <desc id="desc">A colorful midnight-blue developer profile banner with a slowly orbiting constellation and a blinking terminal cursor.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11132D"/>
+      <stop offset="55%" stop-color="#172844"/>
+      <stop offset="100%" stop-color="#113B49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A5FF"/>
+      <stop offset="45%" stop-color="#FFB779"/>
+      <stop offset="100%" stop-color="#6EF5C6"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0%" stop-color="#9C7CFF" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#9C7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#C4E2EF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <circle cx="1004" cy="152" r="220" fill="url(#aura)"/>
+  <path d="M0 279 C220 253 370 306 570 275 S970 246 1200 280" fill="none" stroke="#70DFCC" stroke-opacity=".13" stroke-width="2"/>
+  <path d="M0 296 C220 270 370 322 570 292 S970 262 1200 297" fill="none" stroke="#C99CFB" stroke-opacity=".12" stroke-width="2"/>
+
+  <rect x="40" y="36" width="11" height="11" rx="3" fill="#FFB779"/>
+  <text x="62" y="46" fill="#B7C6DF" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="3">DEVLOG / CHAPTER 01</text>
+
+  <text x="42" y="130" fill="#F6F5FF" font-family="Verdana, Arial, sans-serif" font-size="77" font-weight="bold" letter-spacing="-3">SKYLERZ</text>
+  <rect x="43" y="148" width="390" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="43" y="189" fill="#D6D9F6" font-family="Verdana, Arial, sans-serif" font-size="23">Carlos Maciel</text>
+  <text x="43" y="222" fill="#8EEBCF" font-family="monospace" font-size="18">developer  /  systems &amp; stories</text>
+
+  <text x="42" y="273" fill="#F7C99C" font-family="monospace" font-size="18">not just WHAT. always HOW.</text>
+  <rect x="371" y="256" width="12" height="21" rx="2" fill="#F7C99C">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.35s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(992 156)">
+    <circle r="133" stroke="#6CE6D0" stroke-opacity=".18" fill="none" stroke-width="1.5" stroke-dasharray="3 9"/>
+    <circle r="97" stroke="#E5A9FF" stroke-opacity=".44" fill="none" stroke-width="2"/>
+    <circle r="62" stroke="#FFBA89" stroke-opacity=".36" fill="none" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/>
+      <path d="M-86 -45 L0 -97 L87 -43 L84 47 L0 97 L-85 44 Z" fill="none" stroke="#77EAD6" stroke-opacity=".46" stroke-width="2"/>
+      <path d="M-85 44 L87 -43 M-86 -45 L84 47 M0 -97 L0 97" stroke="#D9BCFF" stroke-opacity=".20"/>
+      <circle cx="0" cy="-97" r="8" fill="#A6F8DC"/>
+      <circle cx="87" cy="-43" r="6" fill="#F5B5E9"/>
+      <circle cx="-85" cy="44" r="7" fill="#F7C28D"/>
+      <circle cx="84" cy="47" r="5" fill="#A6F8DC"/>
+    </g>
+    <circle r="45" fill="#182943" stroke="#A48EFE" stroke-width="2"/>
+    <text x="0" y="11" text-anchor="middle" fill="#F6F4FF" font-family="monospace" font-size="33" font-weight="bold">HOW?</text>
+    <circle cx="0" cy="-133" r="3.5" fill="#FFBB93">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="133" cy="0" r="4" fill="#75ECD0">
+      <animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="1160" y="294" text-anchor="end" fill="#8FAABC" font-family="monospace" font-size="12" letter-spacing="1">BUILD · BREAK · UNDERSTAND · REBUILD</text>
+</svg>

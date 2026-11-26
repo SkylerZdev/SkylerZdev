@@ -7,7 +7,7 @@
 ---
 
 <a id="about"></a>
-### \`> whoami\`
+### `> whoami`
 
 I'm **Carlos Benedito Maciel II**, also known as **SkylerZ** — a Software Engineering student at **iCEV**, from Teresina, Brazil.
 
@@ -20,47 +20,47 @@ I also write stories and design tabletop RPG worlds. I believe systems and stori
 > *Criar uma história entre as linhas de código.*
 
 <a id="projects"></a>
-### \`// selected_builds\`
+### `// selected_builds`
 
 A few repositories you can actually open and inspect:
 
 | Build | What happens under the hood |
 | :-- | :-- |
-| **[Vortex — Recruitment](https://github.com/SkylerZdev/Recrutamento-Vortex)** · \`PHP / Laravel\` | Recruitment system with vacancies, candidates, applications, a JSON API and PostgreSQL. A technical challenge that pushed me into a new stack. |
-| **[iCEVOS](https://github.com/SkylerZdev/iCEVOS)** · \`C\` | A process scheduler featuring priority queues, blocking/unblocking and anti-starvation. OS theory made executable. |
-| **[Forensic Log Analyzer](https://github.com/SkylerZdev/analisador-de-logs)** · \`C / Algorithms\` | Detecting patterns and tracing events across logs with data structures and graph searches. |
-| **[WorldTalk System](https://github.com/SkylerZdev/WorldTalk-System)** · \`Java\` | Collaborative academic system for language-school management, organized into independent responsibilities. |
-| **[School Collections](https://github.com/SkylerZdev/java-colecoes-escolar)** · \`Java\` | \`ArrayList\`, \`Set\`, \`HashMap\`, CSV processing, sorting, reports and a lot of attention to data representation. |
+| **[Vortex — Recruitment](https://github.com/SkylerZdev/Recrutamento-Vortex)** · `PHP / Laravel` | Recruitment system with vacancies, candidates, applications, a JSON API and PostgreSQL. A technical challenge that pushed me into a new stack. |
+| **[iCEVOS](https://github.com/SkylerZdev/iCEVOS)** · `C` | A process scheduler featuring priority queues, blocking/unblocking and anti-starvation. OS theory made executable. |
+| **[Forensic Log Analyzer](https://github.com/SkylerZdev/analisador-de-logs)** · `C / Algorithms` | Detecting patterns and tracing events across logs with data structures and graph searches. |
+| **[WorldTalk System](https://github.com/SkylerZdev/WorldTalk-System)** · `Java` | Collaborative academic system for language-school management, organized into independent responsibilities. |
+| **[School Collections](https://github.com/SkylerZdev/java-colecoes-escolar)** · `Java` | `ArrayList`, `Set`, `HashMap`, CSV processing, sorting, reports and a lot of attention to data representation. |
 
 <sub>Also in the archive: [Flyweight design pattern](https://github.com/SkylerZdev/TrabalhoFlyweight).</sub>
 
 <a id="workshop"></a>
-### \`// the_workshop\`
+### `// the_workshop`
 
 Not everything I build is public yet.
 
-- **RPGine** · \`Next.js / TypeScript / .NET / PostgreSQL\` — An in-development platform for tabletop RPG characters and combat systems.
-- **StudyNet** · \`C# / ASP.NET Core / EF Core / PostgreSQL\` — A backend project exploring CRUD, REST endpoints and deployment with Linux/Nginx.
-- **Hex-grid tactical roguelike** · \`Luau / Roblox Studio\` — A prototype with modular grid movement, pathfinding and turn-based architecture.
-- **MOPE** · \`Product / Leadership\` — A gamified productivity concept I **initiated, led and managed**, from team planning through the academic pitch.
+- **RPGine** · `Next.js / TypeScript / .NET / PostgreSQL` — An in-development platform for tabletop RPG characters and combat systems.
+- **StudyNet** · `C# / ASP.NET Core / EF Core / PostgreSQL` — A backend project exploring CRUD, REST endpoints and deployment with Linux/Nginx.
+- **Hex-grid tactical roguelike** · `Luau / Roblox Studio` — A prototype with modular grid movement, pathfinding and turn-based architecture.
+- **MOPE** · `Product / Leadership` — A gamified productivity concept I **initiated, led and managed**, from team planning through the academic pitch.
 
 <a id="toolbox"></a>
-### \`// toolbox\`
+### `// toolbox`
 
 Tools matter. Knowing **when** and **why** to use them matters more.
 
 | Branch | Loadout |
 | :-- | :-- |
-| **Languages** | \`C#\` · \`Java\` · \`C\` · \`SQL\` · \`Luau\` |
-| **Backend / data** | \`ASP.NET Core\` · \`.NET\` · \`Entity Framework Core\` · \`PostgreSQL\` · \`REST APIs\` |
-| **Web** | \`TypeScript\` · \`React\` · \`Next.js\` · \`PHP / Laravel (learning)\` |
-| **Algorithms** | \`BFS\` · \`DFS\` · \`UCS\` · \`A*\` · \`AVL\` · \`Red-Black Trees\` |
-| **Workflow** | \`Git\` · \`GitHub\` · \`VS Code\` · \`Debugging\` · \`Documentation\` · \`Linux\` |
+| **Languages** | `C#` · `Java` · `C` · `SQL` · `Luau` |
+| **Backend / data** | `ASP.NET Core` · `.NET` · `Entity Framework Core` · `PostgreSQL` · `REST APIs` |
+| **Web** | `TypeScript` · `React` · `Next.js` · `PHP / Laravel (learning)` |
+| **Algorithms** | `BFS` · `DFS` · `UCS` · `A*` · `AVL` · `Red-Black Trees` |
+| **Workflow** | `Git` · `GitHub` · `VS Code` · `Debugging` · `Documentation` · `Linux` |
 
 <sub>Different levels of experience across these tools — this is a map of what I've worked with and studied, not a list of things I've mastered.</sub>
 
 <a id="beyond-code"></a>
-### \`// beyond_code\`
+### `// beyond_code`
 
 **Away from the keyboard:** writing fiction, worldbuilding, running RPG campaigns and playing games that give me more ideas than spare time.
 
